@@ -1,6 +1,7 @@
 # Dice Decide: Your Personal Decision-Maker
 Application Name: DiceDecide
-# Participants Name(s): 
+
+**Participants Name(s):**
 ABDULRAHMAN HERSI, BAT-OCHIR ARTUR ,YOUNES SLAOUI
 
 **Overview:**
