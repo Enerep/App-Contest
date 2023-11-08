@@ -17,6 +17,9 @@ Can't decide between the red dress or the blue one? Take a picture of both, and 
 * **Personalized Experience with "About Me":**
 DiceDecide's "About Me" section offers a personalized decision-making experience. Sync your email for quick decision-making on invitations, link your calendar to help choose between events, and provide your location for tailored suggestions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
 
+# Prototype _(Figma)_:
+[link](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
+
 # Key Features:
 
 - **Roll the Dice**: Simply enter your options and let the virtual dice roll. The outcome? An educated selected choice to keep things exciting and spontaneous.
