@@ -15,7 +15,7 @@ Welcome to Dice Decide, the app where your choices meet destiny. With the power 
 Can't decide between the red dress or the blue one? Take a picture of both, and let Dice Decide choose for you. The app's visual recognition capabilities analyze the images and, with a roll of the AI dice, select the outfit that suits your day best.
 
 * **Personalized Experience with "About Me":**
-DiceDecide's "About Me" section offers a personalized decision-making experience. Sync your email for quick decision-making on invitations, link your calendar to help choose between events, and provide your location for tailored suggestions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
+DiceDecide's "About Me" section offers a personalized decision-making experience. Sync your email for quick decision-making on invitations, link your calendar to help choose between events, and provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
 
 # Prototype _(Figma)_:
 [Figma Prototype of DiceDecide](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
