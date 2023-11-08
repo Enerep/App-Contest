@@ -15,13 +15,17 @@ Welcome to Dice Decide, the app where your choices meet destiny. With the power 
 Can't decide between the red dress or the blue one? Take a picture of both, and let Dice Decide choose for you. The app's visual recognition capabilities analyze the images and, with a roll of the AI dice, select the outfit that suits your day best.
 
 * **Personalization feature**
-DiceDecide's "Personlization" section allows you to personalize your decision-making experience using data integration. With one tap you can sync your data for more personalized decisions. DiceDecide can use calendar, emails, live location, past data, and more to choose the optimal decision in any scenario. For example, sync your email for quick decision-making on invitations, sync your calendar to help choose between events, or provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
+DiceDecide's "Personlization" section allows you to personalize your decision-making experience using data integration. With one tap you can sync your data for more personalized decisions. DiceDecide can use calendar, emails, live location and more to choose the optimal decision in any scenario. For example, sync your email for quick decision-making on invitations, sync your calendar to help choose between events, or provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
 _We are dedicated to boosting your productivity through schedule integration all the while maintaining user privacy._ 
 
 # Prototype _(Figma)_:
 [Figma Prototype of DiceDecide](https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1)
 
 https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92
+
+<img width="412" alt="DiceDecide_Screenshot1" src="https://github.com/Enerep/App-Contest/assets/47132106/768d1f48-5d16-4682-a199-82cbd6de3e91">
+
+<img width="412" alt="DiceDice_Screenshot2" src="https://github.com/Enerep/App-Contest/assets/47132106/72f90c0d-395e-453e-b502-bfb3b2c9ce5a">
 
 **DiceDecide API Code:**
 ```python
