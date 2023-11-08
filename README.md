@@ -20,8 +20,7 @@ DiceDecide's "About Me" section offers a personalized decision-making experience
 # Prototype _(Figma)_:
 [Figma Prototype of DiceDecide](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
 
-https://github.com/Enerep/App-Contest/assets/47132106/a06e5656-9fbc-4c79-94a0-815976fb1ac0
-
+https://github.com/Enerep/App-Contest/assets/47132106/94cd5ba9-e482-471e-b42c-caa54f91a0cc
 
 # Key Features:
 
