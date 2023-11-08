@@ -21,7 +21,9 @@ _We are dedicated to boosting your productivity through schedule integration all
 # Prototype _(Figma)_:
 [Figma Prototype of DiceDecide](https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1)
 
-https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92
+<div align = "center">
+    https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92    
+</div>
 
 <img width="412" alt="DiceDecide_Screenshot1" src="https://github.com/Enerep/App-Contest/assets/47132106/768d1f48-5d16-4682-a199-82cbd6de3e91">
 
