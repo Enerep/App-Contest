@@ -18,7 +18,10 @@ Can't decide between the red dress or the blue one? Take a picture of both, and 
 DiceDecide's "About Me" section offers a personalized decision-making experience. Sync your email for quick decision-making on invitations, link your calendar to help choose between events, and provide your location for tailored suggestions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
 
 # Prototype _(Figma)_:
-[link](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
+[Figma Prototype of DiceDecide](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
+
+https://github.com/Enerep/App-Contest/assets/47132106/a06e5656-9fbc-4c79-94a0-815976fb1ac0
+
 
 # Key Features:
 
@@ -41,3 +44,6 @@ Upon launching DiceDecide, you're greeted with a minimalist interface prompting 
 
 **Conclusion:**
 DiceDecide isn't just an app; it's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
+
+**Future Plans**
+We are committed to continuous improvement and innovation. We will be consistenly working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience
