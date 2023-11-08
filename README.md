@@ -15,16 +15,48 @@ Welcome to Dice Decide, the app where your choices meet destiny. With the power 
 Can't decide between the red dress or the blue one? Take a picture of both, and let Dice Decide choose for you. The app's visual recognition capabilities analyze the images and, with a roll of the AI dice, select the outfit that suits your day best.
 
 * **Personalization feature**
-DiceDecide's "Personlization" section allows you to personalize your decision-making experience using data integration. With one tap you can sync your data for more personalized decisions. DiceDecide can use calendar, emails, live location, past data, and more to choose the optimal decision in any scenario.
-_We are dedicated to boosting your productivity through schedule integration all the while maintaining user privacy._
-
-For example, sync your email for quick decision-making on invitations, sync your calendar to help choose between events, or provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
+DiceDecide's "Personlization" section allows you to personalize your decision-making experience using data integration. With one tap you can sync your data for more personalized decisions. DiceDecide can use calendar, emails, live location, past data, and more to choose the optimal decision in any scenario. For example, sync your email for quick decision-making on invitations, sync your calendar to help choose between events, or provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
+_We are dedicated to boosting your productivity through schedule integration all the while maintaining user privacy._ 
 
 # Prototype _(Figma)_:
-[Figma Prototype of DiceDecide](https://www.figma.com/proto/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=46-90&t=Ouuw42HPaf4V0Pc9-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=46%3A90&mode=design)
+[Figma Prototype of DiceDecide](https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1)
 
-https://github.com/Enerep/App-Contest/assets/47132106/94cd5ba9-e482-471e-b42c-caa54f91a0cc
+https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92
 
+**DiceDecide API Code:**
+```python
+import openai
+openai.api_key = "sk-*********" # Secret OpenAI API key
+
+# Funtion for making text requests to an OpenAI text generation model 
+def chat(prompt):
+    response = openai.ChatCompletion.create(
+        model = "gpt-4-0314",
+        messages = [{"role": "user", "content": prompt},
+                    {"name": "DiceDecide","role": "system", "content": "CONSTRAINTS: If the input is not a prompt for different decisions, respond with a '--' and nothing else. You: The AI powering an app called DiceDecide. Task: Make a decision for the user, choose one of the options they propose. If applicable, base the decision off of logic, otherwise just for fun (a decision must be made). Format: Provide the chosen option (phrase or word). On a new line, a short fun explanation with an emoji if needed."}]
+    )
+    return response.choices[0].message.content.strip()
+
+# Generating decision based on user's prompt
+user_input = input("User: ")
+response = chat(user_input)
+print("Decision: ", response)
+
+# Generating image prompt based on the decision DiceDecide made
+imagePrompt = "Create a fun unrealistic image in connection to the object of this phrase: " + response.split('\n')[0]
+
+# Feeding image prompt to an OpenAI image generation model
+image = openai.Image.create(
+  model="dall-e-3",
+  prompt=imagePrompt,
+  size="1024x1024",
+  quality="standard",
+  n=1,
+)
+
+image_url = image.data[0].url
+print(image_url)
+```
 # Key Features:
 
 - **Roll the Dice**: Simply enter your options and let the virtual dice roll. The outcome? An educated selected choice to keep things exciting and spontaneous.
