@@ -121,11 +121,10 @@ Designed for, but not limited to:
 Your choices are yours alone. DiceDecide is built with a commitment to privacy, ensuring that all decisions are processed securely, with end-to-end encryption, and never stored longer than necessary. The "About Me" section is entirely optional and protected with robust security measures. Sync your details with peace of mind, knowing that DiceDecide values your privacy above all.
 
 **Design:**
-The app boasts a sleek, intuitive interface with rich animations that bring the excitement of rolling dice to your fingertips. The app's design ensures that whether you're using voice, text, or images, the process is intuitive and enjoyable.
+DiceDecide features a polished interface with fluid animations that simulate the thrill of rolling dice. Designed for intuitiveness, the app ensures a seamless and enjoyable experience across voice, or image inputs.
 
 **User Experience:**
 Upon launching Dice Decide, you're immediately immersed in a streamlined interface designed for clarity and ease of use. Input your options using the voice, or image inputs, and with a simple swipe, the virtual dice roll to determine your choice. The tactile feedback enhances the experience, adding a sense of physical interaction.
-
 After the roll, the chosen option is displayed alongside a "Learn More" button. Tapping this reveals a concise explanation from the OpenAI API, providing insights into the decision-making process. This feature enriches the user experience by offering a clear rationale behind the AI's choice, tailored to your personal context and preferences.
 
 **Conclusion:**
