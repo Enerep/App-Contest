@@ -61,6 +61,10 @@ _We are dedicated to boosting your productivity through schedule integration all
 
 https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92    
 
+* _Presentation_:
+
+[Dice Decide.pptx](https://github.com/Enerep/App-Contest/files/13309612/Dice.Decide.pptx)
+
 
 **DiceDecide API Code:**
 ```python
