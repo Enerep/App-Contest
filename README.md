@@ -5,27 +5,27 @@ Application Name: DiceDecide
 ABDULRAHMAN HERSI, BAT-OCHIR ARTUR ,YOUNES SLAOUI
 
 **Short Bio Of Developer(s):**
-Younes Slaoui: 
-- B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
-- Software engineer at Indica Labs working on biomedical software.
-- Leveraged machine learning and AI techniques to detect criminal activity during a Data Science internship with the U.S. Department of Homeland Security in summer 2022.
-Bat-Ochir Artur:
-- Personal Website: https://batochirajil.pythonanywhere.com
-- B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
-- Experienced self-learner with over 40 certifications from reputable institutions such as Stanford University, Google, SoloLearn and much more.
+- Younes Slaoui:
+- - B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
+- - Software engineer at Indica Labs working on biomedical software.
+- - Leveraged machine learning and AI techniques to detect criminal activity during a Data Science internship with the U.S. Department of Homeland Security in summer 2022.
+- Bat-Ochir Artur:
+- - Personal Website: https://batochirajil.pythonanywhere.com
+- - B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
+- - Experienced self-learner with over 40 certifications from reputable institutions such as Stanford University, Google, SoloLearn and much more.
 Abdulrahman Hersi:
-- B.S. in economics and political science, University of New Mexico, class of 2026, currently in 2rd year.
+- - B.S. in economics and political science, University of New Mexico, class of 2026, currently in 2rd year.
 
 **Contact Information**
-Younes Slaoui: 
-- Phone: (505)412-0866
-- Email: yslaoui@unm.edu
-Bat-Ochir Artur:
-- Phone: (505)303-6921
-- Email: bartur1@unm.edu
-Abdulrahman Hersi:
-- Phone: (505)523-5553
-- Email: ahd2035@unm.edu
+- Younes Slaoui: 
+- - Phone: (505)412-0866
+- - Email: yslaoui@unm.edu
+- Bat-Ochir Artur:
+- - Phone: (505)303-6921
+- - Email: bartur1@unm.edu
+- Abdulrahman Hersi:
+- - Phone: (505)523-5553
+- - Email: ahd2035@unm.edu
 
 # Introduction:
 Welcome to DiceDecide, the app where your choices meet destiny. With the power of voice commands, visual inputs, and AI integration, decision-making becomes an interactive and engaging experience. Whether it's choosing an outfit, picking a dinner spot, or planning your day, Dice Decide is your go-to for making choices with a touch of fun.
