@@ -28,7 +28,7 @@ ABDULRAHMAN HERSI, BAT-OCHIR ARTUR ,YOUNES SLAOUI
   - Email: ahd2035@unm.edu
 
 # Introduction:
-Welcome to DiceDecide, the app where your choices meet destiny. With the power of voice commands, visual inputs, and AI integration, decision-making becomes an interactive and engaging experience. Whether it's choosing an outfit, picking a dinner spot, or planning your day, Dice Decide is your go-to for making choices with a touch of fun.
+Welcome to DiceDecide, the app where your choices meet destiny. With the power of voice commands, visual inputs, and AI integration, decision-making becomes an interactive and engaging experience. Whether it's choosing an outfit, picking a dinner spot, or planning your day, DiceDecide is your go-to for making choices with a touch of fun.
 
 # Capabilities:
 * **_Voice Command Feature:_**
@@ -93,21 +93,21 @@ print(image_url)
   
 - **AI-Powered Insights**: Not just a game of chance, DiceDecide uses the OpenAI API to provide a brief rationale for your decision, combining randomness with a touch of AI intelligence.
   
-- **Multi-Option Flexibility**: Whether it's two choices or twenty, Dice Decide can handle multiple options with ease, ensuring every possibility gets a fair roll.
+- **Multi-Option Flexibility**: Whether it's two choices or twenty, DiceDecide can handle multiple options with ease, ensuring every possibility gets a fair roll.
     
 - **Decision Archives**: Keep a log of past decisions and outcomes to track the path of your choices over time.
 
 **Audience:**
 DiceDecide is crafted for the modern individual who faces a world brimming with choices. Understanding that each user is unique, the app is designed to cater to a diverse audience with its adaptable features. 
 Designed for, but not limited to: 
-- The Decisive and Indecisive: Whether you're someone who relishes making quick decisions or you often find yourself hesitating at the crossroads of daily choices, Dice Decide is your ally.
+- The Decisive and Indecisive: Whether you're someone who relishes making quick decisions or you often find yourself hesitating at the crossroads of daily choices, DiceDecide is your ally.
 - The Tech-Savvy and the Tech-Curious: It appeals to both the tech-savvy user who is at home with AI integration and the tech-curious who are just beginning to explore the possibilities of technology-enhanced decision-making.
-- The Fashion-Forward and the Style-Seeker: Fashion enthusiasts can use Dice Decide to choose between outfits, accessories, or makeup styles, making it a valuable tool for those looking to refine their look.
+- The Fashion-Forward and the Style-Seeker: Fashion enthusiasts can use DiceDecide to choose between outfits, accessories, or makeup styles, making it a valuable tool for those looking to refine their look.
 - The Planner and the Spontaneous: The "Personalization" section is a haven for planners who love to have their life organized and in sync, and just as useful for spontaneous souls who prefer on-the-fly decisions.
 - The Privacy-Conscious: Built with privacy at its core, it serves the needs of users who prioritize the security of their personal information with an optional "Personalization" section for personalized control.
   
 **Security and Privacy:**
-Your choices are yours alone. Dice Decide is built with a commitment to privacy, ensuring that all decisions are processed securely, with end-to-end encryption, and never stored longer than necessary. The "About Me" section is entirely optional and protected with robust security measures. Sync your details with peace of mind, knowing that Dice Decide values your privacy above all.
+Your choices are yours alone. DiceDecide is built with a commitment to privacy, ensuring that all decisions are processed securely, with end-to-end encryption, and never stored longer than necessary. The "About Me" section is entirely optional and protected with robust security measures. Sync your details with peace of mind, knowing that DiceDecide values your privacy above all.
 
 **Design:**
 The app boasts a sleek, intuitive interface with rich animations that bring the excitement of rolling dice to your fingertips. The app's design ensures that whether you're using voice, text, or images, the process is intuitive and enjoyable.
