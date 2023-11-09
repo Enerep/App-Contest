@@ -8,13 +8,14 @@ ABDULRAHMAN HERSI, BAT-OCHIR ARTUR ,YOUNES SLAOUI
 - Younes Slaoui:
   - B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
   - Software engineer at Indica Labs working on biomedical software.
-  - Leveraged machine learning and AI techniques to detect criminal activity during a Data Science internship with the U.S. Department of Homeland Security in summer 2022.
+  - Leveraged machine learning and AI techniques to detect criminal activity during a Data Science internship with the U.S. Department of Homeland Security in summer 2023.
 - Bat-Ochir Artur:
   - Personal Website: https://batochirajil.pythonanywhere.com
   - B.S. in computer science, University of New Mexico, class of 2025, currently in 3rd year.
   - Experienced self-learner with over 40 certifications from reputable institutions such as Stanford University, Google, SoloLearn and much more.
 - Abdulrahman Hersi:
   - B.S. in economics and political science, University of New Mexico, class of 2026, currently in 2rd year.
+  - Worked with marketing team for SABANTA, bio-tech company based in Saudi Arabia.
 
 **Contact Information**
 - Younes Slaoui:
@@ -123,10 +124,12 @@ Your choices are yours alone. DiceDecide is built with a commitment to privacy, 
 The app boasts a sleek, intuitive interface with rich animations that bring the excitement of rolling dice to your fingertips. The app's design ensures that whether you're using voice, text, or images, the process is intuitive and enjoyable.
 
 **User Experience:**
-Upon launching DiceDecide, you're greeted with a minimalist interface prompting you to input your options. Once entered, a simple swipe gestures the dice to roll with a satisfying tactile feedback. The screen then elegantly transitions to present the chosen option with the "Learn More" button. If you interact with the "Learn More" button, it'll show you concise and detailed information from OpenAI API on why it made that decision for you.
+Upon launching Dice Decide, you're immediately immersed in a streamlined interface designed for clarity and ease of use. Input your options using the voice, or image inputs, and with a simple swipe, the virtual dice roll to determine your choice. The tactile feedback enhances the experience, adding a sense of physical interaction.
+
+After the roll, the chosen option is displayed alongside a "Learn More" button. Tapping this reveals a concise explanation from the OpenAI API, providing insights into the decision-making process. This feature enriches the user experience by offering a clear rationale behind the AI's choice, tailored to your personal context and preferences.
 
 **Conclusion:**
-DiceDecide isn't just an app; it's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
+DiceDecide isn't just an app! It's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
 
 **Future Plans**
-We are committed to continuous improvement and innovation. We will be consistently working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience
+We are committed to continuous improvement and innovation. DiceDecide will evolve through continuous iteration, integrating user feedback and preferences to enhance decision-making. We aim to expand third-party integrations for richer, more informed choices. We will be consistently working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. Our vision is to transform DiceDecide into a comprehensive AI assistant, fully in sync with your schedule, crafting daily or weekly plans aligned with your objectives and data. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience.
