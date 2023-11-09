@@ -37,7 +37,7 @@ Welcome to DiceDecide, the app where your choices meet destiny. With the power o
 * **_Visual Decision-Making:_**
 Can't decide between the red dress or the blue one? Take a picture of both, and let DiceDecide choose for you. The app's visual recognition capabilities analyze the images and, with a roll of the AI dice, select the outfit that suits your day best.
 
-* **Personalization feature**
+* **_Personalization feature:_**
 DiceDecide's "Personalization" section allows you to personalize your decision-making experience using data integration. With one tap you can sync your data for more personalized decisions. DiceDecide can use calendar, emails, live location and more to choose the optimal decision in any scenario. For example, sync your email for quick decision-making on invitations, sync your calendar to help choose between events, or provide your location for tailored decisions based on weather and time of day. This optional personalization allows DiceDecide to consider your schedule, preferences, and current situation when making decisions for you.
 _We are dedicated to boosting your productivity through schedule integration all the while maintaining user privacy._ 
 
@@ -113,10 +113,10 @@ Your choices are yours alone. DiceDecide is built with a commitment to privacy, 
 The app boasts a sleek, intuitive interface with rich animations that bring the excitement of rolling dice to your fingertips. The app's design ensures that whether you're using voice, text, or images, the process is intuitive and enjoyable.
 
 **User Experience:**
-Upon launching DiceDecide, you're greeted with a minimalist interface prompting you to input your options. Once entered, a simple swipe gestures the dice to roll with a satisfying tactile feedback. The screen then elegantly transitions to present the chosen option with "Learn More" button. If you interact with "Learn More" button, it'll show you a concise and detailed information from OpenAI API on why it made that decision for you.
+Upon launching DiceDecide, you're greeted with a minimalist interface prompting you to input your options. Once entered, a simple swipe gestures the dice to roll with a satisfying tactile feedback. The screen then elegantly transitions to present the chosen option with the "Learn More" button. If you interact with the "Learn More" button, it'll show you concise and detailed information from OpenAI API on why it made that decision for you.
 
 **Conclusion:**
 DiceDecide isn't just an app; it's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
 
 **Future Plans**
-We are committed to continuous improvement and innovation. We will be consistenly working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience
+We are committed to continuous improvement and innovation. We will be consistently working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience
