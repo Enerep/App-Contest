@@ -83,5 +83,11 @@ Upon launching DiceDecide, you're greeted with a minimalist interface prompting 
 **Conclusion:**
 DiceDecide isn't just an app; it's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
 
+Emphasize more the alleviation of stress and improving productiviy by making educated decisions
+
 **Future Plans**
-We are committed to continuous improvement and innovation. We will be consistenly working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, such as education, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience
+We are committed to continuous improvement and innovation. We will be consistenly working on new features and updates to enhance the functionality of DiceDecide. We envision DiceDecide evolving into more than just a personal assistant. We aim to create a versatile tool that can be used for a variety of purposes, entertainment, and productivity. We are excited about the future of DiceDecide and we are committed to providing our users with the best possible experience.
+
+add: we will continue to develop the app through an iterative process, we will collect user feedback and preferences, also we will continue to integrate it with more third parties for improved decisions. Eventually the app can evolve into a full on AI helper app that is fully integrated with user's schedule and develop full plans for the day or week based on user goals and other data... add smthn like this bro
+
+There's more enhancements that can be done on each section 
