@@ -42,15 +42,23 @@ DiceDecide's "Personalization" section allows you to personalize your decision-m
 _We are dedicated to boosting your productivity through schedule integration all the while maintaining user privacy._ 
 
 # Prototype _(Figma)_:
-[Figma Prototype of DiceDecide](https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1)
+* Link for Figma prototype:
 
-https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92    
+[Figma Prototype of DiceDecide](https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1) 
+
+<sub>Raw Link: https://www.figma.com/file/NB4CRy1cHBQgNuOeH00CWF/Dice-Decide?type=design&node-id=0%3A1&mode=design&t=B4ohOpvabfwmjJUl-1<sub/>
+
+* _Screenshots_:
 
 <img width="200" alt="DiceDecide_Screenshot1" src="https://github.com/Enerep/App-Contest/assets/47132106/768d1f48-5d16-4682-a199-82cbd6de3e91">
 
 <img width="200" alt="DiceDice_Screenshot2" src="https://github.com/Enerep/App-Contest/assets/47132106/72f90c0d-395e-453e-b502-bfb3b2c9ce5a">
 
-<img width="200" alt="DiceDecide_Screenshot3" src="https://github.com/Enerep/App-Contest/assets/47132106/883e970a-9e64-4816-b815-c92973a180c8">
+<img width="177" alt="DiceDecide_Screenshot3" src="https://github.com/Enerep/App-Contest/assets/47132106/883e970a-9e64-4816-b815-c92973a180c8">
+
+* _Video_:
+
+https://github.com/Enerep/App-Contest/assets/47132106/090875a2-b71c-4a8b-b39e-c90babc51f92    
 
 
 **DiceDecide API Code:**
@@ -96,6 +104,8 @@ print(image_url)
 - **Multi-Option Flexibility**: Whether it's two choices or twenty, DiceDecide can handle multiple options with ease, ensuring every possibility gets a fair roll.
     
 - **Decision Archives**: Keep a log of past decisions and outcomes to track the path of your choices over time.
+
+# Description:
 
 **Audience:**
 DiceDecide is crafted for the modern individual who faces a world brimming with choices. Understanding that each user is unique, the app is designed to cater to a diverse audience with its adaptable features. 
