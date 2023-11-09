@@ -65,7 +65,7 @@ print(image_url)
 
 - **Roll the Dice**: Simply enter your options and let the virtual dice roll. The outcome? An educated selected choice to keep things exciting and spontaneous.
   
-- **AI-Powered Insights**: Not just a game of chance, DiceDecide uses the ChatGPT API to provide a brief rationale for your decision, combining randomness with a touch of AI intelligence.
+- **AI-Powered Insights**: Not just a game of chance, DiceDecide uses the OpenAI API to provide a brief rationale for your decision, combining randomness with a touch of AI intelligence.
   
 - **Multi-Option Flexibility**: Whether it's two choices or twenty, Dice Decide can handle multiple options with ease, ensuring every possibility gets a fair roll.
     
@@ -78,7 +78,7 @@ Your choices are yours alone. Dice Decide is built with a commitment to privacy,
 The app boasts a sleek, intuitive interface with rich animations that bring the excitement of rolling dice to your fingertips. The app's design ensures that whether you're using voice, text, or images, the process is intuitive and enjoyable.
 
 **User Experience:**
-Upon launching DiceDecide, you're greeted with a minimalist interface prompting you to input your options. Once entered, a simple swipe gestures the dice to roll with a satisfying tactile feedback. The screen then elegantly transitions to present the chosen option, accompanied by a concise, informative blurb from ChatGPT that might just make you see your choice in a new light.
+Upon launching DiceDecide, you're greeted with a minimalist interface prompting you to input your options. Once entered, a simple swipe gestures the dice to roll with a satisfying tactile feedback. The screen then elegantly transitions to present the chosen option with "Learn More" button. If you interact with "Learn More" button, it'll show you a concise and detailed information from OpenAI API on why it made that decision for you.
 
 **Conclusion:**
 DiceDecide isn't just an app; it's a decision-making partner that adds a dash of excitement to your daily choices. It's perfect for the indecisive, the adventurous, and everyone in between. Say goodbye to decision paralysis and hello to DiceDecide – where every roll is a new adventure! Embrace the power of choice with DiceDecide – where your voice, your images, and your life help shape your destiny.
